@@ -1,5 +1,5 @@
 package testGit;
 
 public class PruebaAdriana {
-	String prueba="Adriana";
+	String prueba="David";
 }
